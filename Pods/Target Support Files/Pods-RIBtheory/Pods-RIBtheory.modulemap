@@ -1,0 +1,6 @@
+framework module Pods_RIBtheory {
+  umbrella header "Pods-RIBtheory-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+PODS:
+  - RIBs (0.9.3):
+    - RxRelay (~> 5.1)
+    - RxSwift (~> 5.1)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.2)
+
+DEPENDENCIES:
+  - RIBs (from `https://github.com/Stan-Ost/RIBs`, branch `master`)
+
+SPEC REPOS:
+  trunk:
+    - RxRelay
+    - RxSwift
+
+EXTERNAL SOURCES:
+  RIBs:
+    :branch: master
+    :git: https://github.com/Stan-Ost/RIBs
+    :submodules: true
+
+CHECKOUT OPTIONS:
+  RIBs:
+    :commit: b573a6dc268c4d070f1b8f9b692cacb6610b7b54
+    :git: https://github.com/Stan-Ost/RIBs
+    :submodules: true
+
+SPEC CHECKSUMS:
+  RIBs: d4c4c7e7e4580f0bbe88bdc88b6c11704a738b7f
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 1e2e1f9570186967f617e49128ed26ccf1bafc8e
+
+PODFILE CHECKSUM: d8138c8a33c215a9622cb4181e221971de77c3c8
+
+COCOAPODS: 1.10.1
